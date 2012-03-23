@@ -1,0 +1,10 @@
+C:\Users\Douglas\Desktop\ULBRA 2012\LPC1\aplicacoes\MinhaPrimeiraAplicacao\MinhaPrimeiraAplicacao\bin\Debug\MinhaPrimeiraAplicacao.exe.config
+C:\Users\Douglas\Desktop\ULBRA 2012\LPC1\aplicacoes\MinhaPrimeiraAplicacao\MinhaPrimeiraAplicacao\bin\Debug\MinhaPrimeiraAplicacao.exe
+C:\Users\Douglas\Desktop\ULBRA 2012\LPC1\aplicacoes\MinhaPrimeiraAplicacao\MinhaPrimeiraAplicacao\bin\Debug\MinhaPrimeiraAplicacao.pdb
+C:\Users\Douglas\Desktop\ULBRA 2012\LPC1\aplicacoes\MinhaPrimeiraAplicacao\MinhaPrimeiraAplicacao\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Douglas\Desktop\ULBRA 2012\LPC1\aplicacoes\MinhaPrimeiraAplicacao\MinhaPrimeiraAplicacao\obj\x86\Debug\MinhaPrimeiraAplicacao.Properties.Resources.resources
+C:\Users\Douglas\Desktop\ULBRA 2012\LPC1\aplicacoes\MinhaPrimeiraAplicacao\MinhaPrimeiraAplicacao\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Douglas\Desktop\ULBRA 2012\LPC1\aplicacoes\MinhaPrimeiraAplicacao\MinhaPrimeiraAplicacao\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Douglas\Desktop\ULBRA 2012\LPC1\aplicacoes\MinhaPrimeiraAplicacao\MinhaPrimeiraAplicacao\obj\x86\Debug\MinhaPrimeiraAplicacao.exe
+C:\Users\Douglas\Desktop\ULBRA 2012\LPC1\aplicacoes\MinhaPrimeiraAplicacao\MinhaPrimeiraAplicacao\obj\x86\Debug\MinhaPrimeiraAplicacao.pdb
+C:\Users\Douglas\Desktop\ULBRA 2012\LPC1\aplicacoes\MinhaPrimeiraAplicacao\MinhaPrimeiraAplicacao\obj\x86\Debug\MinhaPrimeiraAplicacao.Form1.resources

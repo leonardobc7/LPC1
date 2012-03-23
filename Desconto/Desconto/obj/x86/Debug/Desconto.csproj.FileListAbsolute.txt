@@ -1,0 +1,9 @@
+C:\Users\Douglas\Desktop\ULBRA 2012\LPC1\aplicacoes\Desconto\Desconto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Douglas\Desktop\ULBRA 2012\LPC1\aplicacoes\Desconto\Desconto\obj\x86\Debug\Desconto.Form1.resources
+C:\Users\Douglas\Desktop\ULBRA 2012\LPC1\aplicacoes\Desconto\Desconto\obj\x86\Debug\Desconto.Properties.Resources.resources
+C:\Users\Douglas\Desktop\ULBRA 2012\LPC1\aplicacoes\Desconto\Desconto\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Douglas\Desktop\ULBRA 2012\LPC1\aplicacoes\Desconto\Desconto\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Douglas\Desktop\ULBRA 2012\LPC1\aplicacoes\Desconto\Desconto\bin\Debug\Desconto.exe
+C:\Users\Douglas\Desktop\ULBRA 2012\LPC1\aplicacoes\Desconto\Desconto\bin\Debug\Desconto.pdb
+C:\Users\Douglas\Desktop\ULBRA 2012\LPC1\aplicacoes\Desconto\Desconto\obj\x86\Debug\Desconto.exe
+C:\Users\Douglas\Desktop\ULBRA 2012\LPC1\aplicacoes\Desconto\Desconto\obj\x86\Debug\Desconto.pdb
