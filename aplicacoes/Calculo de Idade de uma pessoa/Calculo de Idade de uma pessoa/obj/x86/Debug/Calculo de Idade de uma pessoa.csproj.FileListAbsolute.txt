@@ -1,0 +1,9 @@
+C:\Users\Douglas\Desktop\ULBRA 2012\LPC1\aplicacoes\Calculo de Idade de uma pessoa\Calculo de Idade de uma pessoa\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Douglas\Desktop\ULBRA 2012\LPC1\aplicacoes\Calculo de Idade de uma pessoa\Calculo de Idade de uma pessoa\obj\x86\Debug\Calculo_de_Idade_de_uma_pessoa.Form1.resources
+C:\Users\Douglas\Desktop\ULBRA 2012\LPC1\aplicacoes\Calculo de Idade de uma pessoa\Calculo de Idade de uma pessoa\obj\x86\Debug\Calculo_de_Idade_de_uma_pessoa.Properties.Resources.resources
+C:\Users\Douglas\Desktop\ULBRA 2012\LPC1\aplicacoes\Calculo de Idade de uma pessoa\Calculo de Idade de uma pessoa\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Douglas\Desktop\ULBRA 2012\LPC1\aplicacoes\Calculo de Idade de uma pessoa\Calculo de Idade de uma pessoa\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Douglas\Desktop\ULBRA 2012\LPC1\aplicacoes\Calculo de Idade de uma pessoa\Calculo de Idade de uma pessoa\bin\Debug\Calculo de Idade de uma pessoa.exe
+C:\Users\Douglas\Desktop\ULBRA 2012\LPC1\aplicacoes\Calculo de Idade de uma pessoa\Calculo de Idade de uma pessoa\bin\Debug\Calculo de Idade de uma pessoa.pdb
+C:\Users\Douglas\Desktop\ULBRA 2012\LPC1\aplicacoes\Calculo de Idade de uma pessoa\Calculo de Idade de uma pessoa\obj\x86\Debug\Calculo de Idade de uma pessoa.exe
+C:\Users\Douglas\Desktop\ULBRA 2012\LPC1\aplicacoes\Calculo de Idade de uma pessoa\Calculo de Idade de uma pessoa\obj\x86\Debug\Calculo de Idade de uma pessoa.pdb

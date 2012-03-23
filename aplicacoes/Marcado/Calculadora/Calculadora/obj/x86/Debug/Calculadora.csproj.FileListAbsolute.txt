@@ -1,0 +1,9 @@
+C:\Users\Douglas\Desktop\ULBRA 2012\LPC1\aplicacoes\Marcado\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Douglas\Desktop\ULBRA 2012\LPC1\aplicacoes\Marcado\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Douglas\Desktop\ULBRA 2012\LPC1\aplicacoes\Marcado\Calculadora\Calculadora\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Douglas\Desktop\ULBRA 2012\LPC1\aplicacoes\Marcado\Calculadora\Calculadora\obj\x86\Debug\Calculadora.frmPrincipal.resources
+C:\Users\Douglas\Desktop\ULBRA 2012\LPC1\aplicacoes\Marcado\Calculadora\Calculadora\obj\x86\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Douglas\Desktop\ULBRA 2012\LPC1\aplicacoes\Marcado\Calculadora\Calculadora\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Douglas\Desktop\ULBRA 2012\LPC1\aplicacoes\Marcado\Calculadora\Calculadora\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Douglas\Desktop\ULBRA 2012\LPC1\aplicacoes\Marcado\Calculadora\Calculadora\obj\x86\Debug\Calculadora.exe
+C:\Users\Douglas\Desktop\ULBRA 2012\LPC1\aplicacoes\Marcado\Calculadora\Calculadora\obj\x86\Debug\Calculadora.pdb

@@ -1,0 +1,9 @@
+C:\Users\Douglas\Desktop\ULBRA 2012\LPC1\aplicacoes\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Douglas\Desktop\ULBRA 2012\LPC1\aplicacoes\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Douglas\Desktop\ULBRA 2012\LPC1\aplicacoes\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Douglas\Desktop\ULBRA 2012\LPC1\aplicacoes\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frm_Principal.resources
+C:\Users\Douglas\Desktop\ULBRA 2012\LPC1\aplicacoes\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Douglas\Desktop\ULBRA 2012\LPC1\aplicacoes\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Douglas\Desktop\ULBRA 2012\LPC1\aplicacoes\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Douglas\Desktop\ULBRA 2012\LPC1\aplicacoes\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Douglas\Desktop\ULBRA 2012\LPC1\aplicacoes\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb

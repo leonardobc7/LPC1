@@ -1,0 +1,9 @@
+C:\Users\Douglas\Desktop\ULBRA 2012\LPC1\aplicacoes\Instrucoes_condicionais\Instrucoes_condicionais\bin\Debug\Instrucoes_condicionais.exe
+C:\Users\Douglas\Desktop\ULBRA 2012\LPC1\aplicacoes\Instrucoes_condicionais\Instrucoes_condicionais\bin\Debug\Instrucoes_condicionais.pdb
+C:\Users\Douglas\Desktop\ULBRA 2012\LPC1\aplicacoes\Instrucoes_condicionais\Instrucoes_condicionais\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Douglas\Desktop\ULBRA 2012\LPC1\aplicacoes\Instrucoes_condicionais\Instrucoes_condicionais\obj\x86\Debug\Instrucoes_condicionais.FrmPrincipal.resources
+C:\Users\Douglas\Desktop\ULBRA 2012\LPC1\aplicacoes\Instrucoes_condicionais\Instrucoes_condicionais\obj\x86\Debug\Instrucoes_condicionais.Properties.Resources.resources
+C:\Users\Douglas\Desktop\ULBRA 2012\LPC1\aplicacoes\Instrucoes_condicionais\Instrucoes_condicionais\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Douglas\Desktop\ULBRA 2012\LPC1\aplicacoes\Instrucoes_condicionais\Instrucoes_condicionais\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Douglas\Desktop\ULBRA 2012\LPC1\aplicacoes\Instrucoes_condicionais\Instrucoes_condicionais\obj\x86\Debug\Instrucoes_condicionais.exe
+C:\Users\Douglas\Desktop\ULBRA 2012\LPC1\aplicacoes\Instrucoes_condicionais\Instrucoes_condicionais\obj\x86\Debug\Instrucoes_condicionais.pdb
